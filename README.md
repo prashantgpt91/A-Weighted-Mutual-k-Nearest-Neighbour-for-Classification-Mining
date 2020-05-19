@@ -8,12 +8,10 @@ Thanks to Dhar sir our mentor and my project group members [Ashaya Shukla](https
 
 [Presentation Link](https://docs.google.com/presentation/d/1C00HLW8MezByDuMc4nB2r_y2FYNmWaH7x7LM-pgsTx8/embed?start=false&loop=true&delayms=3000&slide=id.p3) | [Paper Arxiv URL](https://arxiv.org/abs/2005.08640)
 
-Conference Name: International Conference on Computational Systems in Engineering and Technology, March 7 & 8 2014, Chennai
 
-Paper ID: 76
+| Conference Name | Paper ID | Review | Paper Print | IEEE Catalog ISBN (XPLORE COMPLIANT) | 
+| ---------- | ---------- | ---------| -------------| -------------------------------------|
+| International Conference on Computational Systems in Engineering and Technology, March 7 & 8 2014, Chennai | 76 | Accepted | https://arxiv.org/abs/2005.08640 | 978-1-4799-3814-8
 
-Review: Accepted
-
-Paper print : NA
 
 
